@@ -6594,6 +6594,6 @@ This analysis was conducted through static reverse engineering of the JavaScript
 *Thanks to [matteyeux](https://github.com/matteyeux) for posting the Coruna exploit dump publicly.*
 *I am an independent security researcher. This analysis was conducted independently and without prior knowledge of Google's or iVerify's Coruna research. All work was performed on publicly recovered JavaScript artifacts.*
 
-*Find me: [Twitter/X](https://x.com/Nadsec11) · [Bluesky](https://bsky.app/profile/nadsec.online) · [Mastodon](https://cyberplace.social/@Nadsec) · [Medium](https://medium.com/@Nadsec) · [GitHub](https://github.com/Rat5ak) · Contact: daniel@nadsec.online*
+*Find me: [Twitter/X](https://x.com/Nadsec11) · [Bluesky](https://bsky.app/profile/nadsec.online) · [Mastodon](https://cyberplace.social/@Nadsec) · [Medium](https://medium.com/@Nadsec) · [GitHub](https://github.com/Rat5ak)*
 
 *Coruna Technical Analysis*
