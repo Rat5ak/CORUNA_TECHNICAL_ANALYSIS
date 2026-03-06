@@ -6590,6 +6590,10 @@ The presence of `HeaderSeed`, `HeaderKey`, and `EncryptedBlocks` configuration s
 This analysis was conducted through static reverse engineering of the JavaScript source code without access to the live C2 infrastructure, target devices, or runtime debugging. All findings are derived from code-level evidence in the 28 recovered JavaScript files.
 
 ---
-
 *Analysis by @Nadsec*
+*Thanks to [matteyeux](https://github.com/matteyeux) for posting the Coruna exploit dump publicly.*
+*I am an independent security researcher. This analysis was conducted independently and without prior knowledge of Google's or iVerify's Coruna research. All work was performed on publicly recovered JavaScript artifacts.*
+
+*Find me: [Twitter/X](https://x.com/Nadsec11) · [Bluesky](https://bsky.app/profile/nadsec.online) · [Mastodon](https://cyberplace.social/@Nadsec) · [Medium](https://medium.com/@Nadsec) · [GitHub](https://github.com/Rat5ak) · Contact: daniel@nadsec.online*
+
 *Coruna Technical Analysis*
